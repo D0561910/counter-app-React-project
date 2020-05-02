@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<div style="position:relative;padding-bottom:72.072%;"><iframe src="//gifs.com/embed/tag-nx95E4?muted=false" frameborder="0" scrolling="no" width="444" height="320" style="backface-visibility: hidden; transform: scale(1); position: absolute; height: 100%; width: 100%;"></iframe></div>
+[![Demo counter-app alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
 
 ## Available Scripts
 
