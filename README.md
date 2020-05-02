@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[![Demo counter-app alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+[![Demo counter-app alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://j.gifs.com/nx95E4.gif)
 
 ## Available Scripts
 
