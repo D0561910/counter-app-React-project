@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<video src="02.05.2020_12.25.02_REC.mp4" width="320" height="200" controls preload></video>
+
 ## Available Scripts
 
 In the project directory, you can run:
